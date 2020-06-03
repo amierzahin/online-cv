@@ -15,12 +15,8 @@ sidebar:
     email: amierzahin@gmail.com
     phone: 019 956 6577
     website: blog.webjeda.com #do not add http://
-    linkedin: https://www.linkedin.com/in/ahmed-amier-zahin-md-zamri-a92a8b125/
+    linkedin: Ahmed Amier Zahin Md Zamri
     github: amierzahin
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -43,7 +39,7 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: A little bit about Myself
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
