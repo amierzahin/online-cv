@@ -7,16 +7,16 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Ahmed Amier Zahin 
+    tagline: IT Support MIS
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: amierzahin@gmail.com
+    phone: 019 956 6577
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    linkedin: https://www.linkedin.com/in/ahmed-amier-zahin-md-zamri-a92a8b125/
+    github: amierzahin
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -29,20 +29,17 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: Malay
+        level: Native
 
     interests:
       - item: Climbing
         link:
 
-      - item: Snowboarding
+      - item: Badminton 
         link:
 
-      - item: Cooking
+      - item: Playing Esport game
         link:
 
 career-profile:
